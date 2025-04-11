@@ -100,9 +100,9 @@ python client.py --client_id client_1 --server localhost:50051 --data_path ./dat
 Note: Change the --client_id for each additional client (e.g., client_2, client_3, etc.).
 
 ```
-``` graphql
-Project Structure
 
+### Project Structure
+``` graphql
 project_root/
 ├── central_server.py           # Central server logic
 ├── client.py                   # Client logic
